@@ -1,3 +1,7 @@
+/*
+	This is not a recommended method as it fails with few specific type of graphs
+*/
+
 #include "adjMatrix.h"
 #define white 0
 #define gray 1
